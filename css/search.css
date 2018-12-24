@@ -1,0 +1,22 @@
+ body{ background-image: url('../images/back.jpg'); background-size: cover;background-repeat: no-repeat;}
+
+
+.welcome-text{ margin-top:200px;margin-left:350px;color: white; }
+
+.project-text{  margin-top:10px;margin-left:10px;color: white;  }
+
+.social-text{  margin-top:10px;margin-left:10px;color: white;  }
+
+.link-text {  margin-top:100px;margin-left:10px;color: white;  }
+
+
+.speech {border: 1px solid black; width: 500px; padding:10px; margin-top: 0px;margin-left: 325px;border-radius: 20px;background-color: white;opacity: 0.5}
+.speech input {border: 0; width: 455px; display: inline-block; height: 30px;background-color: transparent;color: white;}
+.speech img {float: right; width: 180px;}
+
+.social-media { margin-left: 15px;}
+.project-media { margin-left: 15px;}
+
+
+/*https://media.giphy.com/media/CS4YEvgyJ1E5y/giphy.gif*/
+
